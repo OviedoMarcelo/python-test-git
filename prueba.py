@@ -1,3 +1,4 @@
 nombre = input("Bienvenido ingresa tu nombre")
-print(f"Hola {nombre}, bienvenido.")
+apellido = input("Bienvenido ingresa tu apellido")
+print(f"Hola {nombre} {apellido}, bienvenido.")
 print("Adios")
